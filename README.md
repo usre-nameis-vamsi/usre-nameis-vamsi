@@ -44,3 +44,4 @@
 ### 📊 GitHub Stats
 
 ![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=github_dark&hide_border=true)
+(https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=github_dark&hide_border=true)
