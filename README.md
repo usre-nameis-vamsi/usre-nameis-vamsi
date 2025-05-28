@@ -43,5 +43,18 @@
 
 ### 📊 GitHub Stats
 
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=github_dark&hide_border=true)
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=dracula&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usre-nameis-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
