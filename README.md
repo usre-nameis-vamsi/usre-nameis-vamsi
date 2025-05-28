@@ -43,4 +43,4 @@
 
 ### 📊 GitHub Stats
 
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=github_dark)
+![Vamsi's GitHub stats](https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=dracula&margin-w=10&no-bg=true)
