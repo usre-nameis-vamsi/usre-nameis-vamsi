@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vamsi Mohan Krishna Chanumolu 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-To%20Infinite-green)](https://me.toinfinite.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-To%20Infinite-green)](https://chanumoluvamsimohankrishna.netlify.app/)
 ![Role](https://img.shields.io/badge/Vamsi-Frontend%20Developer-blueviolet)
 
 ---
