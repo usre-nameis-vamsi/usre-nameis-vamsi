@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/github-header-image%20(2).png?raw=true" alt="Banner" />
+  <img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/github-header-image.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Vamsi Mohan Krishna Chanumolu 👋</h1>
