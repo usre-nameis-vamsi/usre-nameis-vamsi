@@ -1,17 +1,9 @@
-<p align="center">
-  <img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/github-header-image.png" alt="Banner" />
-</p>
+<img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/github-header-image.png" alt="Banner" />
 
-<h1 align="center">Hi there, I'm Vamsi Mohan Krishna Chanumolu 👋</h1>
+# Hi there, I'm Vamsi Mohan Krishna Chanumolu 👋
 
-<p align="center">
-  <a href="https://me.toinfinite.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-To%20Infinite-green" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Vamsi-Frontend%20Developer-blueviolet" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-To%20Infinite-green)](https://me.toinfinite.dev)
+![Role](https://img.shields.io/badge/Vamsi-Frontend%20Developer-blueviolet)
 
 ---
 
@@ -43,18 +35,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=dracula&margin-w=10&no-bg=true" alt="GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=dracula&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usre-nameis-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usre-nameis-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-mohan-krishna-chanumolu-8ab364257/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/usre-nameis-vamsi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/klu_2200030834)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/chanumoluvamsi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vamsichanumolu72@gmail.com)
