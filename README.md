@@ -41,7 +41,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usre-nameis-vamsi&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 ---
 
