@@ -35,12 +35,15 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="GIF" width="400"/>
+</p>
+
 <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=dracula&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 
 ---
 
