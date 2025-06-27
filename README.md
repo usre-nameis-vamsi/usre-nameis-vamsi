@@ -1,4 +1,4 @@
-<img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/github-header-image.png" alt="Banner" />
+<img src="https://github.com/usre-nameis-vamsi/usre-nameis-vamsi/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" />
 
 # Hi there, I'm Vamsi Mohan Krishna Chanumolu 👋
 
