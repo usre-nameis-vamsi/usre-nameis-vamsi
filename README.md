@@ -17,6 +17,8 @@
 - 💡 Passionate about learning new technologies  
 
 ---
+<img src="https://github.com/your-username/your-repo-name/blob/main/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Developer Banner" width="100%" />
+
 
 ### 🛠 Skills & Tools
 
