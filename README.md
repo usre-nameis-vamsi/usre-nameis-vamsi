@@ -35,19 +35,20 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=monokai&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=gruvbox&no-frame=false&column=4&margin-w=10&margin-h=15" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
-## 🚀 My GitHub Stats
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/github-stats.gif" width="100%" alt="GitHub Stats GIF" />
 
 ### 📊 GitHub Statistics
 
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=radical)
+![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)
+
+
 
 ---
 
