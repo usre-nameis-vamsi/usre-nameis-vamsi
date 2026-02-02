@@ -36,7 +36,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=darkhub&no-frame=true&row=1&column=6" 
     alt="GitHub Trophies"
   />
 </p>
@@ -47,11 +47,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=tokyonight&hide_border=true" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=tokyonight&hide_border=true" 
     height="160"
   />
 </p>
