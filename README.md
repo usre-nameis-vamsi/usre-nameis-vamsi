@@ -32,23 +32,29 @@
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-vamsi&theme=gruvbox&no-frame=false&column=4&margin-w=10&margin-h=15" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
 </p>
-
 
 ---
 
+## 📊 GitHub Statistics
 
-
-### 📊 GitHub Statistics
-
-![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)
-
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</p>
 
 ---
 
